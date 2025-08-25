@@ -1,0 +1,8 @@
+import random 
+numero = float(input("verificar se o numero impar ou par"))
+resto % 4:
+
+if resto == 0:
+    print("numero é par")
+else:
+    print("numero impar")
