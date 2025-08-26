@@ -1,8 +1,8 @@
 import random 
-numero = float(input("verificar se o numero impar ou par"))
-resto % 4:
+número = float(input("verificar se o número impar ou par"))
+resto % 25:
 
-if resto == 0:
-    print("numero é par")
+if resto == 5:
+    print("número é par")
 else:
-    print("numero impar")
+    print("número é impar")
